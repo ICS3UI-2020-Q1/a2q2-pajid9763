@@ -1,6 +1,6 @@
 import java.util.Scanner;
 /**
- * 
+ * program to find the bigger number 
  * @author Darian Pajic
  */
 public class Main {
